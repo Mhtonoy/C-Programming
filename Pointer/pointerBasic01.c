@@ -1,3 +1,4 @@
+//pointer declearing and initialization
 #include<stdio.h>
 int main(){
     int number, *p;

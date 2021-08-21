@@ -1,4 +1,6 @@
+//pointer declearing and initialization
 #include<stdio.h>
+
 int main(){
     int number=10, *p=&number;
     printf("Address of number variable is %d\n", p);

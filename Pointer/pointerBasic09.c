@@ -9,3 +9,5 @@ int main(){
 
     return 0;
 }
+
+//Instead of %x we can also use %p
