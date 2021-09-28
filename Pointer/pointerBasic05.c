@@ -1,3 +1,4 @@
+//Value of Operator
 #include<stdio.h>
 int main(){
     int number=20, *p = &number;

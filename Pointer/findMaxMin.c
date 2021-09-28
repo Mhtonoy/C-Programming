@@ -1,6 +1,6 @@
+//Pointer application: Finding the largest and smallest element of an array
+
 #include<stdio.h>
-
-
 int findMaxMin(int a[],int length,int *max,int *min){
     *max = *min = a[0];
     int i;

@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+int main()
+{
+    char name[20];
+    printf("Enter your name: ");
+    fgets(name, sizeof(name), stdin);
+    displayName(name);
+    return 0;
+}
+void displayName(char* name)
+{
+    printf("Name is ");
+    puts(name);
+}

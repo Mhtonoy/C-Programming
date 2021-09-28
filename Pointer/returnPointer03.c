@@ -1,3 +1,4 @@
+//never even try to return the address of an automatic variable
 #include <stdio.h>
 
 int *fun(int i){
@@ -12,3 +13,4 @@ int main(){
 
     return 0;
 }
+//Warning: function returns address of local variable

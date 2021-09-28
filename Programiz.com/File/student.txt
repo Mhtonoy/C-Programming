@@ -1,0 +1,12 @@
+
+Name: Moz 
+Marks=34 
+
+
+Name: KOl 
+Marks=34 
+
+Name = Tanvir
+Marks = 45
+Name = Towsif
+Marks = 50
